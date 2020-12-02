@@ -1,0 +1,22 @@
+{
+  "usuarios":[
+    {
+      "id":1,
+      "lastname":"pernett jimenez",
+      "email":"leo@gmail.com",
+      "name":"leonardo",
+      "username":"lnard",
+      "password":"827ccb0eea8a706c4c34a16891f84e7b"
+    },
+
+    {
+      "id":2,
+      "lastname":"rios gallego",
+      "email":"mile@gmail.com",
+      "name":"ana milena",
+      "username":"any2020",
+      "password":"01cfcd4f6b8770febfb40cb906715822"
+    }
+
+  ]
+}
